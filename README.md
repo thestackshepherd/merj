@@ -1,5 +1,5 @@
-# merj
-Merj — a calendar consolidation and translation layer. 
+# Nexcal.dev
+nexcal.dev — a calendar consolidation and translation layer. 
 It pulls events from any number of scattered sources 
 (ICS feeds, computed generators, scraped schedules) 
 into one normalized store, then serves
